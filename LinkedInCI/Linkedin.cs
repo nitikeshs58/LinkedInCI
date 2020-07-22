@@ -34,11 +34,10 @@ namespace LinkedInCI
             driver.Quit();
         }
 
-       /* [Test]
+        [Test]
         public void LogOutTest()
         {
             HomePage page = new HomePage(driver);
-            page.LogOut();
-        }*/
+        }
     }
 }
