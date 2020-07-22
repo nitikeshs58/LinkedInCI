@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInCI", "LinkedInCI\LinkedInCI.csproj", "{022AAF25-E88C-4849-A73B-EE2FDB9CA495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022AAF25-E88C-4849-A73B-EE2FDB9CA495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022AAF25-E88C-4849-A73B-EE2FDB9CA495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022AAF25-E88C-4849-A73B-EE2FDB9CA495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022AAF25-E88C-4849-A73B-EE2FDB9CA495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766CC68D-2A00-4697-AD53-20B7C0D27C1F}
+	EndGlobalSection
+EndGlobal
