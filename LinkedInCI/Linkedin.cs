@@ -25,7 +25,13 @@ namespace LinkedInCI
         {
             LoginPage page = new LoginPage(driver);
             page.Login();
+            
+        }
+        [OneTimeTearDown]
+        public void Close()
+        {
             driver.Close();
+            driver.Quit();
         }
 
        /* [Test]
